@@ -11,4 +11,5 @@ Deep Learning Summer School 2017 @ University of Tehran, Iran
 |  Session 6 |        |        |                      |       |
 |  Session 7 |        |        |                      |       |
 |  Session 8 |        |        |                      |       |
+|  Session 9 |        |        |                      |       |
 | Session 10 |        |        |                      |       |
