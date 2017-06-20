@@ -10,7 +10,7 @@ Deep Learning Summer School 2017 @ University of Tehran, Iran
 |    5    |           AlexNet, VGG, GoogleNet, ResNet, Ensemble Classifiers, Data Augmentation, Transfer Learning, Pretrained Model in Software          |        |                      |       |
 |    6    | Introduction to sequence data, Recurrent Neural Networks (RNN), Backpropagation through time, Introduction to Gated Recurrent Neural Network |        |                      |       |
 |    7    |                Word embedding (NLP), Long Short-Term Memory(LSTM), Sentiment Analysis, Language Modeling, Language Translation               |        |                      |       |
-|    8    |                                         Input pipeline, Action Recognition in videos,Image Captioning                                        |        |                      |       |
+|    8    |                                         Action Recognition in videos,Image Captioning                                        |        |                      |       |
 |    9    |                                                  Advanced Deep Learning Topics/Invited Talk                                                  |        |                      |       |
 |    10   |                                                  Advanced Deep Learning Topics/Invited Talk                                                  |        |                      |       |
 
