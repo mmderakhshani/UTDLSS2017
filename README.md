@@ -3,8 +3,8 @@ Deep Learning Summer School 2017 @ University of Tehran, Iran
 
 | Session | Topics                                                                                                                                       | Slides | Additional Resources | Codes |
 |:-------:|----------------------------------------------------------------------------------------------------------------------------------------------|--------|----------------------|-------|
-|    1    |                                 Linear Classifiers, Multilayer Perceptron, Introduction to TensorFlow/Pytorch                                |        |                      |       |
-|    2    |             Optimization in Neural Networks, Loss Function, Back-Propagation, Non-Linear Problems, Introduction to Deep Learning             |        |                      |       |
+|    1    |                                 Linear Classifiers, Optimization in Neural Networks, Loss Function, Introduction to Deep Learning                                |        |                      |       |
+|    2    |              Backpropagation, Introduction to TensorFlow/Pytorch            |        |                      |       |
 |    3    |              Convolutional Neural Network (CNN), CNN Layers (Pooling, Conv, Relu, Sigmoid, Tanh), A Simple CNN on MNIST Dataset              |        |                      |       |
 |    4    |                                           Dropout, Batch Normalization, Leaky Relu, CNN on CIFAR100                                          |        |                      |       |
 |    5    |           AlexNet, VGG, GoogleNet, ResNet, Ensemble Classifiers, Data Augmentation, Transfer Learning, Pretrained Model in Software          |        |                      |       |
