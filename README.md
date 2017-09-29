@@ -15,3 +15,7 @@ Deep Learning Summer School 2017 @ University of Tehran, Iran
 |    10   |                                                  Advanced Deep Learning Topics/Invited Talk                                                  |        |                      |       |
 
 Slides and codes will be uploaded during the course.
+
+Instructors:
+Sajjad Mozaffari (smozaffari72@gmail.com)
+Mohammad Mahdi Derakhshani
